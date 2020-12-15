@@ -9,7 +9,7 @@ Need to install
 
 ## Install
 
-    # curl -L https://github.com/Tirsvad/nvidia-driver-install-for-linux/tarball/master | tar xz -C /root/ --strip-components 2
+    # curl -L https://github.com/TirsvadCLI-Tools/nvidia-driver-installer-linux/tarball/main | tar xz -C /root/ --strip-components 2
     # bash nvidiaInstall/install\ nvidia\ driver.sh
 
 ### TODO
