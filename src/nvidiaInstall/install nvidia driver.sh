@@ -24,7 +24,7 @@ systemctl set-default multi-user.target
 echo "#!/bin/bash
 
 cd /root
-curl -L https://us.download.nvidia.com/XFree86/Linux-x86_64/450.80.02/NVIDIA-Linux-x86_64-450.80.02.run -o nvidiadriver.run
+curl -L https://us.download.nvidia.com/XFree86/Linux-x86_64/460.67/NVIDIA-Linux-x86_64-460.67.run -o nvidiadriver.run
 chmod u+x nvidiadriver.run
 ./nvidiadriver.run -s
 
