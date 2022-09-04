@@ -1,4 +1,4 @@
-#Deprecated
+# Deprecated
 Project moved to https://github.com/TirsvadCLI/Linux.NvidiaGpuDriverInstall
 
 # Nvidia Install For Linux
